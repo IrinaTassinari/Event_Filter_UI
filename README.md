@@ -53,13 +53,6 @@ You can also run it with a simple local server, for example:
 npx serve
 ```
 
-## Possible Improvements
-
-- Add search by event title
-- Add sorting by date or popularity
-- Load data from an API instead of a hardcoded array
-- Add a reset filters button
-- Improve accessibility and localization
 
 ## Notes
 
